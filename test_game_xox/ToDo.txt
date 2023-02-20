@@ -1,0 +1,10 @@
+implement movements for key pressed 'x' or 'y' and box number (1, 9)
+ further implement movements for pressed inside of a box
+
+implement move forward and backward functions and buttons
+                                main board
+    <-(remaing backwards of y) current board (remaing backwards of x)->
+
+write a script that gets the maximum screen values from system and initiliaze game with that values
+
+complete the game as xox.exe
