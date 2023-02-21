@@ -1,3 +1,3 @@
 # cmpe160
 
-Java projects made by @koybasimuhittin for CMPE160 course
+Java projects made by [@koybasimuhittin](https://github.com/koybasimuhittin) for CMPE160 course
