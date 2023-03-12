@@ -104,9 +104,9 @@ public class Game extends Board {
     ) {
       drawLine(
         boxes.get(0).x - 18,
-        boxes.get(0).y + 18,
+        boxes.get(0).y - 18,
         boxes.get(8).x + 18,
-        boxes.get(8).y - 18
+        boxes.get(8).y + 18
       );
       return true;
     }
