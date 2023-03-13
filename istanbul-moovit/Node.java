@@ -1,5 +1,3 @@
-package istanbul_moovit;
-
 /**
  * A basic custom linked list class to build a custom queue from stracht.
  * A linked list is a data structure which contains connected nodes like a chain.

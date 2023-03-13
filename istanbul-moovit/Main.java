@@ -1,5 +1,3 @@
-package istanbul_moovit;
-
 /**
  * @author  Muhittin Köybaşı
  * @since   13-03-2023

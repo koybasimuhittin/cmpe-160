@@ -1,5 +1,3 @@
-package istanbul_moovit;
-
 /**
  * A basic custom queue class to implement a breadth first search algorithm.
  * A queue is a data structure which obeys the first in first out rule.
